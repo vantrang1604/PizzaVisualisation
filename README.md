@@ -36,5 +36,6 @@ Improve the appeal of low-performing pizzas (e.g., Mediterranean, Spinach Suprem
 Consider removing underperforming pizzas to focus resources on best-sellers.
 Product Strategy: Focus on Large and Medium sizes, as they contribute the majority of sales and quantity.
 - Conclusion
+
 This analysis highlights key areas for growth and optimization in product offerings and marketing strategies. By addressing seasonal and category-specific trends, the business can improve overall sales performance and customer satisfaction.
 
