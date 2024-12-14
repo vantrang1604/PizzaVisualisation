@@ -2,7 +2,7 @@ Pizza Sales Analysis Report
 - Overview
 This report presents an in-depth analysis of the sales performance, product trends, and customer purchase patterns for the a pizza company in 2015. Insights are based on data visualizations and summaries to demonstrate strategic decisions for improving sales and optimizing product offerings.
 
-Key Findings
+- Key Findings
 1. Sales Trend Analysis
 Seasonality: Sales peaked in Q2 at ~210K but dropped significantly in Q3, reaching a low of ~64K in October.
 Daily Patterns: Sales were evenly distributed across weekdays and weekends (~15% each). However, sales peaked during lunch time (12–1 PM) and dinner hours (6–7 PM).
@@ -35,6 +35,6 @@ Menu Optimization:
 Improve the appeal of low-performing pizzas (e.g., Mediterranean, Spinach Supreme, Brie Carre) by bundling with popular options or offering discounts.
 Consider removing underperforming pizzas to focus resources on best-sellers.
 Product Strategy: Focus on Large and Medium sizes, as they contribute the majority of sales and quantity.
-7. Conclusion
+- Conclusion
 This analysis highlights key areas for growth and optimization in product offerings and marketing strategies. By addressing seasonal and category-specific trends, the business can improve overall sales performance and customer satisfaction.
 
